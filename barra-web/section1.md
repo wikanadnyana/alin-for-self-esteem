@@ -1,5 +1,6 @@
 ## Review Matrix
 
+$$
 \[
 A =
 \begin{bmatrix}
@@ -9,3 +10,4 @@ a*{21} & a*{22} & \ldots & a*{2n} \\
 a*{m1} & a*{m2} & \ldots & a\_{mn} \\
 \end{bmatrix}
 \]
+$$
